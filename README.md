@@ -110,8 +110,6 @@ To run this project locally, you'll need to have the following installed:
 5. 🌐 Access the platform by navigating to `http://localhost/TCU_AsociacionSanGabriel/` in your browser.
 
 > [!NOTE]
-> **Project Owner / Author** 🧑🏻‍💻  
-> **Cristopher Rodríguez Fernández**  
-> **Fidélitas University | Computer Software Engineering — TCU Project (2025)**  
-> **San Gabriel Childcare and Training Association Information Software**
+> **Project Owner / Developer** 🧑🏻‍💻  
+>- Cristopher Rodríguez Fernández 
 ***
